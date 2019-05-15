@@ -16,7 +16,7 @@
     <message id="qrclip-placeholder-text_too_long">
         <source>Text in clipboard is too long for QR code.</source>
         <extracomment>Placeholder text</extracomment>
-        <translation>Tekst w schowku jest za długi dla QR kodu.</translation>
+        <translation>Tekst w schowku jest za długi dla kodu QR.</translation>
     </message>
     <message id="qrclip-menu-save_to_gallery">
         <source>Save to Gallery</source>
